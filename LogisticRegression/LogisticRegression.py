@@ -9,8 +9,8 @@ import numpy as np
 from scipy import linalg
 
 """
-This program is a logistic regression classifer that trains the model on train data
-and then classifies the documents in the test set
+This program is a logistic regression classifier that trains the model to learn
+the weights and then classifies the test data based on the learned weights
 """
 
 # define global variables
